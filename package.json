@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "playwright": "^1.56.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "@types/node-telegram-bot-api": "^0.64.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
