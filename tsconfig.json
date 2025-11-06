@@ -4,7 +4,7 @@
     "module": "nodenext",
     "target": "esnext",
     "moduleResolution": "nodenext",
-    "lib": ["esnext"],
+    "lib": ["esnext", "dom"],
     "types": ["node"],
 
     // Other Outputs
